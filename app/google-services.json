@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "122626833592",
+    "firebase_url": "https://newotpfind.firebaseio.com",
+    "project_id": "newotpfind",
+    "storage_bucket": "newotpfind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122626833592:android:572e92dfb363157b",
+        "android_client_info": {
+          "package_name": "com.example.ranjeetkumarrana.newotpfind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122626833592-7el11rq9d7i4brvi5sskuse2jc3mu9an.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ranjeetkumarrana.newotpfind",
+            "certificate_hash": "650301171c57048aa562597a7acbfe919b168a7d"
+          }
+        },
+        {
+          "client_id": "122626833592-5mt55i33luspjuo0bn0dgn9llpj78b9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyiuSHVb9hDgkcOTvVFocibV2IeAIWpg8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122626833592-5mt55i33luspjuo0bn0dgn9llpj78b9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

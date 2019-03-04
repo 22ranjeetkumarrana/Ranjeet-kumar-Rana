@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">New OTP FIND</string>
+    <string name="New_app_name">Verify</string>
+    <string name="OTP">OTP</string>
+    <string name="otp">OTP</string>
+    <string name="verify">Verify</string>
+</resources>
